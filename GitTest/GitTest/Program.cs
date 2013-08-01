@@ -14,6 +14,7 @@ namespace GitTest
             Console.WriteLine("git");
             int a;
             int b = 5;
+            string x = "eh, tozi git.";
         }
     }
 }
